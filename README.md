@@ -1,13 +1,13 @@
 
 PRIVACY POLICY FOR Grease sandbox ON QUEST 2, QUEST PRO, AND QUEST 3
-Grease sandbox is a game developed by pooley for the Meta Quest platform. We prioritize your privacy and are committed to complying with all applicable privacy regulations, including the European Union's General Data Protection Regulation (GDPR). The game is designed for an entirely offline, solo experience, and no internet connection is required for gameplay. Ghost Hunter does not collect any personal information, data, or game statistics. We will never request, gather, or transmit any data.
+Grease sandbox is a game developed by Clammy Cloud for the Meta Quest platform. We prioritize your privacy and are committed to complying with all applicable privacy regulations, including the European Union's General Data Protection Regulation (GDPR). The game is designed for an entirely offline, solo experience, and no internet connection is required for gameplay. Grease sandbox does not collect any personal information, data, or game statistics. We will never request, gather, or transmit any data.
 
 COMMITMENT TO CONFIDENTIALITY
-pooley is committed to safeguarding your privacy while you use Ghost Hunter on the Meta Quest platform. Below are the key points of our privacy policy:
+Clammy Cloud is committed to safeguarding your privacy while you use Ghost Hunter on the Meta Quest platform. Below are the key points of our privacy policy:
 
 Confidential Information
 
-"Confidential Information" refers to any data or information exchanged between pooley and the user in any form (though in the context of this game, no such exchange takes place). We guarantee that no personal data will be collected by Grease sandbox
+"Confidential Information" refers to any data or information exchanged between Clammy Cloud and the user in any form (though in the context of this game, no such exchange takes place). We guarantee that no personal data will be collected by Grease sandbox
 Ownership and Use of Data
 
 Any information related to your use of the game will remain entirely private. We do not transmit, sell, or monetize any data, as Grease sandbox operates entirely offline. No third-party providers will have access to any information about your gameplay.
@@ -24,7 +24,7 @@ DATA TRANSMISSION
 There is no data transmission involved in playing Grease sandbox. The game is fully offline and does not require or request an internet connection. As a result, no data, including personal or gameplay-related information, is ever transmitted to us or any third parties.
 
 HOW WE PROTECT YOUR PRIVACY
-pooley is dedicated to ensuring that your privacy is respected throughout your experience with Grease sandbox. Specifically, we guarantee that:
+Clammy Cloud is dedicated to ensuring that your privacy is respected throughout your experience with Grease sandbox. Specifically, we guarantee that:
 
 Grease sandbox is an offline game.
 No data, including personal or statistical information, is collected.
